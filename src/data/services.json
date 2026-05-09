@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Water Camp",
+    "icon": "Droplets",
+    "description": "We organize regular water distribution camps to provide clean, safe drinking water to communities facing water scarcity. Our teams set up purification stations and distribute water to thousands of households during summer months and crisis situations, ensuring no family goes without this basic necessity.",
+    "image": "",
+    "color": "blue"
+  },
+  {
+    "id": 2,
+    "title": "Blood Donation Camp",
+    "icon": "Heart",
+    "description": "Our blood donation drives connect generous donors with patients in critical need. We collaborate with local hospitals and medical institutions to conduct safe, organized camps that have saved countless lives. Every donation collected goes directly to patients in government hospitals across Hyderabad.",
+    "image": "",
+    "color": "red"
+  },
+  {
+    "id": 3,
+    "title": "Medical Camp",
+    "icon": "Stethoscope",
+    "description": "Free medical camps bringing qualified doctors and healthcare professionals to underserved communities. We provide free consultations, basic diagnostics, and medicines to those who cannot afford healthcare. Specialized camps for women's health, dental care, and eye check-ups are also organized regularly.",
+    "image": "",
+    "color": "green"
+  },
+  {
+    "id": 4,
+    "title": "Free Education",
+    "icon": "BookOpen",
+    "description": "Empowering the next generation through quality education at no cost. We provide tutoring, study materials, digital learning resources, and mentorship to students from economically weaker sections. Our dedicated volunteers ensure every child has access to the education they deserve.",
+    "image": "",
+    "color": "saffron"
+  },
+  {
+    "id": 5,
+    "title": "Food Distribution",
+    "icon": "UtensilsCrossed",
+    "description": "No one should go to bed hungry. Our food distribution program prepares and distributes nutritious meals to the homeless, elderly, and vulnerable families across Hyderabad. We run weekly distribution drives and scale up during festivals and emergencies to reach the maximum number of people.",
+    "image": "",
+    "color": "orange"
+  }
+]

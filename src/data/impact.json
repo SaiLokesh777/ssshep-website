@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "serviceName": "Water Camp",
+    "peopleServed": 12500,
+    "image": "",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 2,
+    "serviceName": "Blood Donation Camp",
+    "peopleServed": 3200,
+    "image": "",
+    "color": "#ef4444"
+  },
+  {
+    "id": 3,
+    "serviceName": "Medical Camp",
+    "peopleServed": 8700,
+    "image": "",
+    "color": "#22c55e"
+  },
+  {
+    "id": 4,
+    "serviceName": "Free Education",
+    "peopleServed": 1850,
+    "image": "",
+    "color": "#f97316"
+  },
+  {
+    "id": 5,
+    "serviceName": "Food Distribution",
+    "peopleServed": 25000,
+    "image": "",
+    "color": "#eab308"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "SAIRAM B",
+    "image": "/images/SAIRAM.jpeg",
+    "about": "",
+    "profession": "TEAM LEAD @WIPRO",
+    "passingYear": ""
+  },
+  {
+    "id": 2,
+    "name": "D GANGADHAR",
+    "image": "/images/GANGADHAR.jpeg",
+    "about": "",
+    "profession": "TECHNOLOGY LEADS @INFOSYS",
+    "passingYear": ""
+  },
+  {
+    "id": 3,
+    "name": "SAI PAVAN",
+    "image": "/images/SAI_PAVAN.jpeg",
+    "about": "",
+    "profession": "SENIOR STATISTICAL PROGRAMMER",
+    "passingYear": ""
+  },
+  {
+    "id": 4,
+    "name": "G VENKATESHWARLU",
+    "image": "/images/G_VENKATESHWARLU.jpeg",
+    "about": "",
+    "profession": "TECHNO FUNCTIONAL CONSULTANT",
+    "passingYear": ""
+  },
+  {
+    "id": 1777894520962,
+    "name": "G SHIVA",
+    "image": "/images/G_SHIVA.jpeg",
+    "about": "",
+    "profession": "TREASURY ANALYST",
+    "passingYear": ""
+  },
+  {
+    "id": 1777894636461,
+    "name": "ARUN VASA",
+    "image": "/images/ARUN_VASA.jpeg",
+    "about": "",
+    "profession": "SR. ANALYST APPLIED DATA FINANCE",
+    "passingYear": ""
+  },
+  {
+    "id": 1777894697738,
+    "name": "K RAVI",
+    "image": "/images/K_RAVI.jpeg",
+    "about": "",
+    "profession": "SYSTEM ENGINEER TCS",
+    "passingYear": ""
+  },
+  {
+    "id": 1777894758672,
+    "name": "NA JASHWANTH",
+    "image": "/images/NA_JASHWANTH.jpeg",
+    "about": "",
+    "profession": "DATA ENGINEER DELOITTE",
+    "passingYear": ""
+  },
+  {
+    "id": 1777894864379,
+    "name": "SURESH DASARI",
+    "image": "/images/SURESH_DASARI.jpeg",
+    "about": "",
+    "profession": "ASSOCIATIVE PROFESSIONAL DCX TECHNOLOGIES",
+    "passingYear": ""
+  },
+  {
+    "id": 1777894962658,
+    "name": "RAJU K",
+    "image": "/images/RAJU_K.jpeg",
+    "about": "",
+    "profession": "Lead, Global Taxation — Macromill Research India LLP",
+    "passingYear": ""
+  },
+  {
+    "id": 1777895079546,
+    "name": "MANI DEEP",
+    "image": "/images/MANI_DEEP.jpeg",
+    "about": "",
+    "profession": "Risk Analyst Junior — Axis Bank",
+    "passingYear": ""
+  },
+  {
+    "id": 1777895179737,
+    "name": "M SATISH",
+    "image": "/images/M_SATISH.jpeg",
+    "about": "",
+    "profession": "Junior Data Analyst — Axis Bank AtTracts",
+    "passingYear": ""
+  },
+  {
+    "id": 1777895255218,
+    "name": "E BALA SAI KRISHNA",
+    "image": "/images/BALA_SAI_KRISHNA.jpeg",
+    "about": "",
+    "profession": "Financial Admin Assistance",
+    "passingYear": ""
+  },
+  {
+    "id": 1777895402387,
+    "name": "S SAI NARASIMHA",
+    "image": "/images/NARASIMHA.jpeg",
+    "about": "",
+    "profession": "FOOD CHEF — ITC Gardenia (Bengaluru)",
+    "passingYear": ""
+  },
+  {
+    "id": 1777895499498,
+    "name": "DR.G SAI OBULESH",
+    "image": "/images/OBULESH.jpeg",
+    "about": "",
+    "profession": "Physiotherapy",
+    "passingYear": ""
+  },
+  {
+    "id": 1777895656593,
+    "name": "G SAI NARENDRA",
+    "image": "/images/NARENDRA.jpeg",
+    "about": "Sai Narendra is a dedicated and goal-oriented young professional with a strong academic background in Computer Science, Data Science, and Artificial Intelligence. He completed his Bachelor of Science in Computer Science and has recently completed his Master of Science in Data Science and Computing from Sri Sathya Sai Institute of Higher Learning. He has consistently demonstrated commitment toward academic excellence and technical growth throughout his educational journey.\n\nHaving lost his father at a very young age, Sai Narendra developed resilience, determination, and a strong sense of responsibility early in life. With the constant support, encouragement, and sacrifices of his mother, he has remained focused on achieving excellence in both academics and career aspirations.\n\nCurrently, Sai Narendra is working as a Data Scientist at Saince IT Health Tech Pvt Ltd, where he is contributing to innovative healthcare technology solutions through Artificial Intelligence, Machine Learning, and data-driven systems. Alongside his professional role, he continues to strengthen his expertise in Data Science, Deep Learning, Computer Vision, Natural Language Processing, and modern AI technologies to solve real-world challenges efficiently.\n\nHe has also gained hands-on experience through impactful research and projects, including facial expression recognition, cattle biometric verification, medical imaging systems for jugular vein detection, and full-stack web development applications. His ability to combine theoretical knowledge with practical implementation reflects his passion for innovation and continuous learning.\n\nBeyond academics and professional work, Sai Narendra actively engages in reading, vedam chanting, playing and exploring global affairs, which enhance his creativity, communication, and leadership qualities. These interests complement his broader vision for personal and professional development.\n\nHis future goal is to become an officer in the Indian Foreign Service, where he aims to serve the nation with integrity, represent India on global platforms, and contribute to international diplomacy while carrying forward his strong foundation in technology, analytical thinking, and public service.",
+    "profession": "Data Scientist at SAINCE IT Health Tech Pvt Ltd",
+    "passingYear": "2026"
+  },
+  {
+    "id": 1777895915561,
+    "name": "B ARUN SAI",
+    "image": "/images/ARUN_SAI.jpeg",
+    "about": "",
+    "profession": "HigherEd BPO Pvt Ltd",
+    "passingYear": ""
+  },
+  {
+    "id": 1777896031771,
+    "name": "S SAI SATISH",
+    "image": "/images/S_SAI_SATISH.jpeg",
+    "about": "",
+    "profession": "Junior Accountant CA",
+    "passingYear": ""
+  }
+]
