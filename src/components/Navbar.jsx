@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Shield } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -34,6 +34,7 @@ const Navbar = () => {
     }`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
+
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3 group">
             <div className="w-10 h-10 rounded-full bg-gradient-to-br from-saffron-500 to-sacred-500 flex items-center justify-center shadow-md group-hover:scale-105 transition-transform">
@@ -60,13 +61,6 @@ const Navbar = () => {
                 {link.label}
               </Link>
             ))}
-            <Link
-              to="/admin"
-              className="ml-2 flex items-center gap-1.5 px-4 py-2 bg-navy-900 text-white rounded-lg text-sm font-medium hover:bg-navy-800 transition-colors"
-            >
-              <Shield size={14} />
-              Admin
-            </Link>
           </div>
 
           {/* Mobile toggle */}
@@ -96,13 +90,6 @@ const Navbar = () => {
                 {link.label}
               </Link>
             ))}
-            <Link
-              to="/admin"
-              className="flex items-center gap-2 px-4 py-2.5 bg-navy-900 text-white rounded-lg text-sm font-medium"
-            >
-              <Shield size={14} />
-              Admin Panel
-            </Link>
           </div>
         </div>
       )}
